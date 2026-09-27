@@ -44,6 +44,4 @@ Student-Management-System/
 └── README.md
 ```
 
-## Demo
 
-The project includes demo videos showing the working of the application.
